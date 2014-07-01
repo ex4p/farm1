@@ -11,6 +11,6 @@ for($i=0;$i<20;$i++)
   system('git checkout ' . $branch[$index] );
   system("echo 'whatsup' >> " . $file[$index]);
   system("git addcom -m " . $branch[$index] );
-  system("git logp");
+  #system("git logp");
   sleep 1;
 }
