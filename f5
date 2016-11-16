@@ -1,15 +1,11 @@
-Changing the whole thing on github in the cat branch!
-whatsup
-whatsup
-whatsup
-whatsup
-whatsup
-whatsup
-whatsup
-whatsup
-whatsup
-whatsup
-whatsup
+<<<<<<< HEAD
+hello
+=======
+another edit.
+another edit.
+another edit.
+another edit.
+another edit.
 whatsup
 whatsup
 whatsup
@@ -37,7 +33,10 @@ whatsup
 whatsup
 whatsup
 <<<<<<< HEAD
+>>>>>>> owl
+whatsup
 =======
+>>>>>>> owl
 whatsup
 whatsup
 whatsup
@@ -47,9 +46,23 @@ whatsup
 whatsup
 whatsup
 whatsup
-<<<<<<< HEAD
->>>>>>> sam
-=======
 whatsup
 whatsup
->>>>>>> sam
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
+whatsup
